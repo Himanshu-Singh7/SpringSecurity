@@ -1,2 +1,2 @@
-# SpringSecurity
-Spring Security   implementation
+# SpringBootSecurity
+Spring Boot Security implementation
