@@ -8,7 +8,6 @@ public class TestController {
     
 	@GetMapping("/signin")
 	public String signin() {
-		
-		return "login";
+	 return "login";
 	}
 }
